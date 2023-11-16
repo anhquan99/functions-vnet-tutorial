@@ -40,4 +40,4 @@ jobs:
           app-name: 'fa-private-network'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B59CA5D4FD5340E1B6CF6FF523A31F5A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_268266774E6E45C18EDEAD5D1F35C933 }}
